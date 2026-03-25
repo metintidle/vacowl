@@ -1,9 +1,9 @@
 # vcawl — WordPress uploads tooling
 # Database Connection string
-Host: 152.69.175.15
+Host: XXXX
 Database Name: vcawol
 USerName: itt-admin
-Password: GCdGb!fNmk!!3dH
+Password: XXXX
 
 
 ## Setup
